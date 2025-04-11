@@ -18,4 +18,4 @@ A console-based Library Management System written in C, featuring book inventory
 ## 🛠️ Installation
 1. Clone the repository:
    ```bash
-   git clone [repository-url]
+   git clone [dipti513.git]
